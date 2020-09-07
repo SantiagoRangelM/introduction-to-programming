@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+74
+"P1T6 Compare birth of two person. miker Julian Santiago Rangel Manrique."
+4
+1
+41
+"imput the year of birth of firts person"
+5
+1
+5
+yearA
+4
+1
+43
+"imput the year of birth of scecond person"
+5
+1
+5
+yearB
+7
+0
+1
+13
+yearA = yearB
+7
+0
+1
+12
+yearA >yearB
+4
+1
+30
+"the person B is older than A"
+13
+4
+1
+30
+"the person A is older than B"
+13
+13
+4
+1
+52
+"the two people are the same age", yearA, "=", yearB
+13
+1
