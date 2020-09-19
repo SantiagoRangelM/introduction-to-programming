@@ -6,8 +6,8 @@
 0
 4
 1
-74
-"P1T6 Compare birth of two person. miker Julian Santiago Rangel Manrique."
+76
+"P1T6 Compare birth of two person. miker Julian Santiago Rangel Manrique."  
 4
 1
 41
@@ -30,7 +30,7 @@ yearB
 13
 yearA = yearB
 7
-0
+1
 1
 12
 yearA >yearB

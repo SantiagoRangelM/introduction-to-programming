@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+69
+"ESTE PROGRAMA ESTA DISEÑADO PARA CALCULAR EL VOLUMEN DE UN CILINDRO"
+4
+1
+24
+"INGRESE EL RADIO EN CM"
+5
+1
+5
+Radio
+4
+1
+22
+"INGRESE LA ALTURA CM"
+5
+1
+6
+Altura
+6
+1
+7
+Volumen
+29
+3.141592*(radio*radio)*altura
+4
+1
+47
+"el volumen de un cilindro es:", Volumen,"Cm^3"
+1

@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+175
+'Este progrma determina en cada parada, cuantos pasajeros entran en cada parada, y cuanto dinero se recibio en cada parada, ingrese el numero de paradas que realizo el bus : '
+5
+1
+9
+n_paradas
+6
+1
+10
+npasajeros
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+9
+n_paradas
+1
+1
+1
+4
+1
+55
+'Cuantos pasajeros ingresaron en la  ', i, '  parada :'
+5
+1
+10
+npasajeros
+6
+1
+10
+tpasajeros
+23
+npasajeros + npasajeros
+10
+6
+1
+7
+tdinero
+16
+npasajeros * 150
+4
+1
+116
+'El numero de pasajeros que recogio el bus fue de : ', tpasajeros , '
+ El dinero total recogido fue de :$ ', tdinero
+1

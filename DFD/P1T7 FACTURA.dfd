@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+75
+"Este programa esta diseñado para calcular el valor de 4 productos mas IVA"
+4
+1
+33
+"INGRESE EL VALOR DEL PRODUCTO_1"
+5
+1
+2
+P1
+4
+1
+33
+"INGRESE EL VALOR DEL PRODUCTO_2"
+5
+1
+2
+P2
+4
+1
+33
+"INGRESE EL VALOR DEL PRODUCTO_3"
+5
+1
+2
+P3
+4
+1
+33
+"INGRESE EL VALOR DEL PRODUCTO_4"
+5
+1
+2
+P4
+6
+3
+11
+Total_bruto
+11
+P1+P2+P3+P4
+3
+IVA
+16
+total_bruto*0.19
+5
+Total
+15
+Total_bruto+IVA
+4
+1
+95
+"La factura es  Total_bruto: $",  Total_bruto, " valor iva: $" ,IVA," Total a pagar: $" , Total
+1

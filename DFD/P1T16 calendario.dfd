@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+108
+"ESTE PROGRAMA ESTA DISEÑADO POR SANTIAGO RANGEL Y SIRVE PARA DETERMINAR EL NUMERO DE DIAS QUE TIENE UN MES"
+4
+1
+27
+"Ingrese el numero del mes"
+5
+1
+6
+NUMMES
+7
+0
+1
+22
+NUMMES<1 OR NUMMES >12
+7
+0
+1
+10
+NUMMES = 2
+7
+0
+1
+52
+NUMMES= 4 OR NUMMES = 6 OR NUMMES = 9 OR NUMMES = 11
+4
+1
+25
+"Eeste mes tiene 31 dias"
+13
+4
+1
+24
+"Este mes tiene 30 dias"
+13
+13
+4
+1
+25
+"Eeste mes tiene 28 dias"
+13
+13
+4
+1
+27
+"ERROR: este mes no exixte"
+13
+1
