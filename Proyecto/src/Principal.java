@@ -2,17 +2,20 @@
 //DATE:
 //DESCRIPTION: Proyecto final
 
+//description: llamado librerias
 import javax.swing.*;
 import java.awt.event.*;
 import java.awt.*;
 
 public class Principal extends JFrame implements ActionListener{
+    //description: declaracion de variables
     JLabel label1, label2, label3;
     JButton boton1;
     JButton boton2;
     JButton boton3;
     
     public Principal(){
+        //description: constructor principal
         setLayout(null);
         setVisible(true);
         setBounds(0, 0, 750, 550);
@@ -63,6 +66,7 @@ public class Principal extends JFrame implements ActionListener{
     }
 
     public void actionPerformed(ActionEvent e){
+        //description: activacion de los botones
         if(e.getSource() == boton1){
             Estudiantes Estudiantes = new Estudiantes();
             this.setVisible(false);
